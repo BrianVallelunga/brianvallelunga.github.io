@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Root People
+title: Person
 ---
 
-
-# Person
 
 ## Attributes
 
