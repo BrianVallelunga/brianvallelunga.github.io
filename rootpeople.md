@@ -1,3 +1,9 @@
+---
+layout: post
+title: Root People
+---
+
+
 # Person
 ## Attributes
 
