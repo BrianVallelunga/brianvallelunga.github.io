@@ -5,6 +5,7 @@ title: Root People
 
 
 # Person
+
 ## Attributes
 
 | Name          | Type      | Description
@@ -46,6 +47,7 @@ title: Root People
 | address_type	| string	| Flexenum of Personal, Work, Other
 
 # Phone Number
+
 | Name          | Type      | Description
 |----------------|-----------|----------------
 | primary		| boolean	|Denotes if this is the primary phone number.  A person can have only one primary number
@@ -59,6 +61,7 @@ title: Root People
 | do_not_call	| boolean	| True if this number is registered on the US FCC Do Not Call Registry
 
 # Profile
+
 Profiles correspond to a person's accounts on online services like Facebook, Twitter, etc.
 
 | Name          | Type      | Description
@@ -70,6 +73,7 @@ Profiles correspond to a person's accounts on online services like Facebook, Twi
 
 
 # Postal Address
+
 ## Attributes
 
 | Name          | Type      | Description
