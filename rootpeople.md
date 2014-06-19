@@ -38,8 +38,9 @@ title: Root People
 
 
 # Email Address
+
 | Name          | Type      | Description
-|----------------|-----------|----------------
+|---------------|-----------|----------------
 | primary		| boolean	|Denotes if this is the primary address.  A person can have only one primary address
 | address		| string	| The actual email address according to RFC822
 | address_type	| string	| Flexenum of Personal, Work, Other
